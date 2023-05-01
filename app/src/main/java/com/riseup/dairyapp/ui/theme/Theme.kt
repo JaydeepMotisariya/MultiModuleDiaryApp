@@ -82,7 +82,7 @@ private val DarkColorScheme = darkColorScheme(
 )
 
 @Composable
-fun MyApplicationTheme(
+fun DairyppTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
